@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Sadiyah Grobbler! 👋 
 
-<!--
-**Sg1787/Sg1787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring IT Developer focused on **Cloud Computing** and **Full Stack Development**.I thrive on the challenge of troubleshooting complex issues
 
-Here are some ideas to get you started:
+> "There is no end, only the next stage." – *Grandfather Nurgle*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Focus Areas
+
+I am actively building projects using the following technologies:
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Cloud & DevOps** | AWS , Azure, Linux , Automation, Networking , Security  |
+| **Languages** | Python, Java SE , JavaScript , HTML , CSS  |
+| **Databases** | Databases, SQL  |
+| **Other Tools** | GitHub , VS Code , WordPress , Microsoft Office  |
+
+---
+
+## 📚 Latest Education Focus
+
+* **Cloud Computing:** AWS Re/Start (EC2, S3, Architecture, Security).
+* **Cybersecurity:** Google Cyber Security Certificate (Foundations, Network Security, Detection).
+* **Development:** Java Development NQF5 (Spring Boot, RESTful APIs, Testing).
+
+---
+
+## 🎨 Hobbies
+
+* Miniature painting
+* Playing Five Parsecs From Home
+* Warhammer 40K
+* Dark Heresy
+* Battletech
+
+---
+
+## 📫 Connect with Me
+
+**LinkedIn:** [Sadiyah Grobbler](https://www.linkedin.com/in/sadiyah-grobbler/) 
+**GitHub:** [Sg1787](https://github.com/Sg1787) 
+**Email:** sgrobbler1@gmail.com 
