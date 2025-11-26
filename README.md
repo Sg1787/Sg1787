@@ -1,6 +1,6 @@
 # Hi, I'm Sadiyah Grobbler! 👋 
 
-I'm an aspiring IT Developer focused on **Cloud Computing** and **Full Stack Development**.I thrive on the challenge of troubleshooting complex issues
+I'm an IT Developer focused on **Cloud Computing** and **Full Stack Development**.I thrive on the challenge of troubleshooting complex issues
 
 > "There is no end, only the next stage." – *Grandfather Nurgle*
 
