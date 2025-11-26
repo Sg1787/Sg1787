@@ -39,6 +39,6 @@ I am actively building projects using the following technologies:
 
 ## 📫 Connect with Me
 
-**LinkedIn:** [Sadiyah Grobbler](https://www.linkedin.com/in/sadiyah-grobbler/) 
-**GitHub:** [Sg1787](https://github.com/Sg1787) 
-**Email:** sgrobbler1@gmail.com 
+* **LinkedIn:** [Sadiyah Grobbler](https://www.linkedin.com/in/sadiyah-grobbler/) 
+* **GitHub:** [Sg1787](https://github.com/Sg1787) 
+* **Email:** sgrobbler1@gmail.com 
